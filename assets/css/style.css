@@ -1,0 +1,25 @@
+
+
+.navbar-brand{
+  font-size: 2rem !important; 
+}
+.nav-link{
+  font-size: 1.3rem;
+}
+
+.curved {
+    position: relative;
+    background:#f8f9fa;
+    min-height: 60vh;
+    border-bottom-left-radius: 50% 12%;
+    border-bottom-right-radius: 50% 12%;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .pic-box{
+      max-height:35vh;
+    }
+  }
+ 
+  
+  
